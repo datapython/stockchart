@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            After hours of stock trade
+        </title>
+        <meta lang="en" charset="UTF-8">
+        <style>
+            .chart {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+            }
+            .subchart {
+                width:50%;
+            }
+            .tickers {
+                display:inline-flex;
+                padding: 5px;
+            }
+            .pages {
+                background-color:aquamarine;
+                width:100%;
+                overflow: auto;
+                font-family: ariel, sans-serif;
+                font-size:16px;
+                font-weight: bold;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+            .pages a {
+                padding-right:10px;
+            }
+            .border {
+                background-color: darkgrey;
+                width: 100%;
+                height: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="pages"></div>
+        <div class="border"></div>
+        <div class="chart"></div>
+
+        <script src="stock_scripts.js"> </script>
+    </body>
+</html>
