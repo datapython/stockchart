@@ -75,6 +75,10 @@ const stocks = {
     'LGVW': 'LGVW',
     'SPCB': 'SPCB',
     'PSTI': 'PSTI',
+    'RIOT': 'RIOT',
+    'FNGU': 'FNGU',
+    'MLM': 'MLM',
+    'FTFT': 'FTFT',
 }
 
 const companiesSorted = Object.keys(stocks).sort();
