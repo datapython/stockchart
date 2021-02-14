@@ -44,6 +44,8 @@ const stocks = {
     'TRUP': 'TRUP',
     'UMC': 'UMC',
     'UPWK': 'UPWK',
+    'CLOV': 'CLOV',
+    'VIX': 'VIX',
 }
 
 const companiesSorted = Object.keys(stocks).sort();
