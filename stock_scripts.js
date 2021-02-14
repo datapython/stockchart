@@ -80,6 +80,7 @@ const stocks = {
     'MLM': 'MLM',
     'FTFT': 'FTFT',
     'INCY': 'INCY',
+    'MRK': 'MRK',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
