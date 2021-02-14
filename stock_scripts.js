@@ -79,7 +79,15 @@ const stocks = {
     'FNGU': 'FNGU',
     'MLM': 'MLM',
     'FTFT': 'FTFT',
+    'INCY': 'INCY',
 }
+
+// const inputTicker = document.querySelector('.inputTicker');
+// const inputCompany = document.querySelector('.inputCompany');
+// const btnAdd = document.querySelector('.add');
+// const btnRemove = document.querySelector('.remove');
+// btnAdd.addEventListener('click', addStock);
+// btnRemove.addEventListener('click', removeStock);
 
 const companiesSorted = Object.keys(stocks).sort();
 
@@ -101,3 +109,17 @@ companiesSorted.forEach(stock => {
     subchart.appendChild(chartImg);
     chart.appendChild(subchart);
 });
+
+// function addStock () {
+//     const ticker = inputTicker.value;
+//     const company = inputCompany.value;
+//     if (company && ticker && !stocks.hasOwnProperty(ticker)) stocks[ticker] = company;
+//     window.location.reload();
+// }
+
+// function removeStock () {
+//     const ticker = inputTicker.value;
+//     const company = inputCompany.value;
+//     if (stocks.hasOwnProperty(ticker)) delete stocks[ticker];
+//     window.location.reload();
+// }
