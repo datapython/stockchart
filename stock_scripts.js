@@ -82,6 +82,7 @@ const stocks = {
     'INCY': 'INCY',
     'MRK': 'MRK',
     'MARA': 'MARA',
+    'DSGT': 'DSGT',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
