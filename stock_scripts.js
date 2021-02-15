@@ -81,6 +81,7 @@ const stocks = {
     'FTFT': 'FTFT',
     'INCY': 'INCY',
     'MRK': 'MRK',
+    'MARA': 'MARA',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
