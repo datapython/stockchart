@@ -86,6 +86,7 @@ const stocks = {
     'RMO': 'RMO',
     'LAC': 'LAC',
     'HYLN': 'HYLN',
+    'TALO': 'TALO',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
