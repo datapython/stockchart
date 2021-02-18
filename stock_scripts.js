@@ -88,6 +88,10 @@ const stocks = {
     'HYLN': 'HYLN',
     'TALO': 'TALO',
     'CLII': 'CLII',
+    'ABBV': 'ABBV',
+    'UWMC': 'UWMC',
+    'ONCY': 'ONCY',
+    'CRUS': 'CRUS-chip',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
