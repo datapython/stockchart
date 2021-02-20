@@ -120,7 +120,10 @@ const stocks = {
     'VERI': 'VERI',
     'CMBM': 'CMBM',
     'MWK': 'MWK',
-
+    'U': 'U',
+    'OKTA': 'OKTA',
+    'PING': 'PING',
+    'KNSA': 'KNSA',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
