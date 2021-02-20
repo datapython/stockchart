@@ -124,6 +124,7 @@ const stocks = {
     'OKTA': 'OKTA',
     'PING': 'PING',
     'KNSA': 'KNSA',
+    'AI': 'AI',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
