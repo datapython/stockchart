@@ -125,6 +125,9 @@ const stocks = {
     'PING': 'PING',
     'KNSA': 'KNSA',
     'AI': 'AI',
+    'APPS': 'APPS',
+    'WISH': 'WISH',
+    'SDGR': 'SDGR-computpharm',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
