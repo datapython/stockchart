@@ -128,6 +128,7 @@ const stocks = {
     'APPS': 'APPS',
     'WISH': 'WISH',
     'SDGR': 'SDGR-computpharm',
+    'GHSI': 'GHSI',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
