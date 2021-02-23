@@ -129,6 +129,10 @@ const stocks = {
     'WISH': 'WISH',
     'SDGR': 'SDGR-computpharm',
     'GHSI': 'GHSI',
+    'ASML': 'ASML',
+    'POLA': 'POLA',
+    'CLNE': 'CLNE',
+    'AMRS': 'AMRS',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
