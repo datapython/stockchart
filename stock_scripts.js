@@ -44,7 +44,7 @@ const stocks = {
     'UMC': 'UMC',
     'UPWK': 'UPWK',
     'CLOV': 'CLOV',
-    'VIX': 'VIX',
+    'VX': 'VIX',
     'BHC': 'BHC',
     'YRD': 'YRD',
     'HYLN': 'HYLN',
