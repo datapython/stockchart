@@ -128,6 +128,7 @@ const stocks = {
     'POLA': 'POLA',
     'CLNE': 'CLNE',
     'AMRS': 'AMRS',
+    'FVRR': 'FVRR',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
