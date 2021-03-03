@@ -129,6 +129,7 @@ const stocks = {
     'CLNE': 'CLNE',
     'AMRS': 'AMRS',
     'FVRR': 'FVRR',
+    'WPRT': 'WPRT',
 }
 
 // const inputTicker = document.querySelector('.inputTicker');
