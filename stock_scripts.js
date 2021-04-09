@@ -13,7 +13,7 @@ const stocks = {
     'BFT': 'BFT',
     'BLDP': 'BLDP',
     'BYD': 'BYD',
-    'CLA': 'CLA',
+    'OUST': 'OUST',
     'CRM': 'CRM',
     'CRSA': 'CRSA',
     'CTMX': 'CTMX',
