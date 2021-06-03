@@ -1,5 +1,5 @@
 const stocks = {
-    'AAPL': 'Apple',
+    'AAPL': 'AAPL-Apple',
     'ADBE': 'Adobe',
     'AKBA': 'AKBA_penny',
     'AKTS': 'AKTS',
@@ -10,7 +10,7 @@ const stocks = {
     'AVID': 'AVID',
     'BABA': 'BABA',
     'BB': 'BB',
-    'BFT': 'BFT',
+    
     'BLDP': 'BLDP',
     'BYD': 'BYD',
     'OUST': 'OUST',
@@ -62,7 +62,7 @@ const stocks = {
     'CLBS': 'CLBS',
     'LGHL': 'LGHL',
     'CBAT': 'CBAT',
-    'SNCA': 'SNCA',
+    
     'ATOS': 'ATOS',
     'RIDE': 'RIDE',
     'YALA': 'YALA',
@@ -94,13 +94,13 @@ const stocks = {
     "PINS": 'PINS',
     'CRWD': 'CRWD',
     'BILI': 'BILI',
-    'APHA': 'APHA',
+    
     'STAA': 'STAA',
     "CRNC": 'CRNC',
     'CELH': 'CELH',
     'TIGR': 'TIGR',
     'REGI': 'REGI',
-    'NK': 'NK',
+    
     'DNMR': 'DNMR',
     'SI': 'SI',
     'MTLS': 'MTLS',
@@ -114,7 +114,7 @@ const stocks = {
     'STKL': 'STKL',
     'VERI': 'VERI',
     'CMBM': 'CMBM',
-    'MWK': 'MWK',
+    
     'U': 'U',
     'OKTA': 'OKTA',
     'PING': 'PING',
