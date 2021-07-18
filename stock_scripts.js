@@ -6,7 +6,7 @@ const stocks = {
     'ALUS': 'ALUS-shell',
     'AMD': 'AMD',
     'AMWL': 'AMWL',
-    'APXT': 'APXT',
+    'AVPT': 'AVPT',
     'AVID': 'AVID',
     'BABA': 'BABA',
     'BB': 'BB',
