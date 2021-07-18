@@ -15,7 +15,7 @@ const stocks = {
     'BYD': 'BYD',
     'OUST': 'OUST',
     'CRM': 'CRM',
-    'CRSA': 'CRSA',
+    'LVOX': 'LVOX',
     'CTMX': 'CTMX',
     'DVAX': 'DVAX',
     'ELYS': 'ELYS',
@@ -82,7 +82,7 @@ const stocks = {
     'LAC': 'LAC',
     'HYLN': 'HYLN',
     'TALO': 'TALO',
-    'CLII': 'CLII',
+    
     'ABBV': 'ABBV',
     'UWMC': 'UWMC',
     'ONCY': 'ONCY',
