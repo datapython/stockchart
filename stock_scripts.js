@@ -3,7 +3,7 @@ const stocks = {
     'ADBE': 'Adobe',
     'AKBA': 'AKBA_penny',
     'AKTS': 'AKTS',
-    'ALUS': 'ALUS-shell',
+    'FREY': 'FREY-shell',
     'AMD': 'AMD',
     'AMWL': 'AMWL',
     'AVPT': 'AVPT',
